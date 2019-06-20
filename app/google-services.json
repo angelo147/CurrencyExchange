@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "704356687667",
+    "firebase_url": "https://currencyexchange-d74b3.firebaseio.com",
+    "project_id": "currencyexchange-d74b3",
+    "storage_bucket": "currencyexchange-d74b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:704356687667:android:4166ab7bf989ffd2",
+        "android_client_info": {
+          "package_name": "gr.angelo.currencyexchange"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "704356687667-ejsfs3g9arq84t4nrkikvgoqd5dsjlr0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDO474A-az3kaKkRHeNl72Y5AG80wr9fwA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "704356687667-ejsfs3g9arq84t4nrkikvgoqd5dsjlr0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

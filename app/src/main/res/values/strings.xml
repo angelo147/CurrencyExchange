@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Currency Exchange</string>
+    <string name="title_activity_bottom_navigation">Currency Exchange</string>
+    <string name="_1m">1M</string>
+    <string name="_1w">1W</string>
+    <string name="_3m">3M</string>
+    <string name="_1y">1Y</string>
+    <string name="_5y">5Y</string>
+    <string name="_10y">10Y</string>
+
+    <string name="title_converter">Converter</string>
+    <string name="title_account">Account</string>
+    <string name="title_charts">Charts</string>
+    <string name="please_wait">Please Wait</string>
+    <string name="connection_required">Internet connection required for this action.</string>
+    <string name="converter_title">Currency Converter</string>
+    <string name="chart_title">Historical Chart</string>
+    <string name="account_title">Account</string>
+    <string name="already_logged_in">Already logged in!</string>
+    <string name="sync">Sync Preferences</string>
+    <string name="sync_diag_message">Do you want to sync your account preferences? Application will restart.</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="update_password">Update Password</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="update_profile">Update Profile</string>
+    <string name="login_title">Login</string>
+    <string name="login_desc">Please login to unlock sync feature.</string>
+</resources>
